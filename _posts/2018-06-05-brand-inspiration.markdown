@@ -16,5 +16,6 @@ Bringing it all together to create your brand and web design.
 
 You may visit our github [Empire Graphics Github][eg-gh].
 
+![Brand Strategy]({{ http://localhost:4000 }}/assets/images/brand_strategy.png)
 
 [eg-gh]:   https://github.com/empiregraphics/empiregraphics.github.io

@@ -14,6 +14,8 @@
 # Rubies that were not automagically discovered, simply add a line below
 # the triple hyphens with the absolute path to the Ruby root directory.
 #
+# {% site/assets/images image name="graphic_design_frame.png" caption="Graphic Design" %}
+#
 # Example:
 #
 # ---
@@ -32,7 +34,7 @@ email: info@empiregraphics.net
 description: >- # this means to ignore newlines until "baseurl:"
   Empire Graphics is an independent brand, design and web design agency. Our primary focus is on brand experience, creating engaging connections between brands and people.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: http://empiregraphics.net # the base hostname & protocol for your site, e.g. http://example.com
+url: http://localhost:4000 # http://empiregraphics.net # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EmpireGraphics4
 github_username:  empiregraphics
 
