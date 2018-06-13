@@ -14,8 +14,8 @@ Behavioral economics along with proven brand research define your brand’s beli
 
 Bringing it all together to create your brand and web design.
 
+![Brand Strategy]({{ http://localhost:4000 }}/assets/images/brand_strategy.png){: .center-image }
+
 You may visit our github [Empire Graphics Github][eg-gh].
 
-![Brand Strategy]({{ http://localhost:4000 }}/assets/images/brand_strategy.png)
-
-[eg-gh]:   https://github.com/empiregraphics/empiregraphics.github.io
+[eg-gh]:   https://github.com/empiregraphics/eg
